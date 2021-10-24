@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/rules/rules", 
+    "pages/OnlineAgainst/OnlineAgainst",   
+    "pages/PersonAgainst/PersonAgainst", 
+    "pages/Person/Person"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "猪尾巴",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
